@@ -1,7 +1,7 @@
 # SilkSynopsis-llama3.2
 
 ## 🚀 Overview
-SilkSynopsis is an application that utilizes AI to extract and summarize the key points of any webpage. Just input a URL, and the app will provide a concise summary using OpenAI's GPT-4o Mini model.
+SilkSynopsis is an application that utilizes AI to extract and summarize the key points of any webpage. Just input a URL, and the app will provide a concise summary using llama 3.2 model.
 
 ## ✨ Features
 - 🔍 **Extracts Content**: Fetches and processes webpage content.
