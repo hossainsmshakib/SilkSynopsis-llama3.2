@@ -5,7 +5,7 @@ SilkSynopsis is an application that utilizes AI to extract and summarize the key
 
 ## ✨ Features
 - 🔍 **Extracts Content**: Fetches and processes webpage content.
-- 🧠 **AI-Powered Summarization**: Uses llma3.2
+- 🧠 **AI-Powered Summarization**: Uses llama3.2
 
 ## 🖥️ Screenshots
 ![image](https://github.com/user-attachments/assets/c2f884ca-8ad8-4c72-a7d7-da0e8ddbf302)
@@ -18,7 +18,7 @@ SilkSynopsis is an application that utilizes AI to extract and summarize the key
 ```
 
 ## ⚙️ Technologies Used
-- **AI Model**: OpenAI GPT-4o Mini API
+- **AI Model**: Llama 3.2
 
 ## 📜 License
 This project is licensed under the MIT License.
